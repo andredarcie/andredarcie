@@ -9,4 +9,4 @@
 - 🎲 My hobby and my passion is creating games like [Brian's Mansion](https://github.com/andredarcie/brians-mansion), [Insomnia](https://andredarcie.github.io/insomnia.html), [Life is Undefined](https://andredarcie.github.io/life-is-undefined/), [Get Out](https://andredarcie.github.io/get-out-game/), [Zero to One](https://andredarcie.itch.io/zero-to-one) and now [Zero The Hero](https://andredarcie.github.io/zero-the-hero/)
 - ✉️ Contact me: [e-mail](andrendarcie@gmail.com), [Linkedin](https://www.linkedin.com/in/andr%C3%A9-n-darcie-8b64817b/), [Kaggle](https://www.kaggle.com/andredarcie), [Medium](https://medium.com/@andrendarcie), [itch.io](https://andredarcie.itch.io/), [Dev.to](https://dev.to/andredarcie) and [Codepen](https://codepen.io/andredarcie)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredarcie&layout=compact)](https://github.com/andredarcie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andredarcie&layout=langs_count=8)](https://github.com/andredarcie/github-readme-stats)
