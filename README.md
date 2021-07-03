@@ -2,7 +2,7 @@
 
 ### Some info about me
 
-- 💼 I’m currently working at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with [.NET](https://dotnet.microsoft.com/)
+- 💼 I’m currently working at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with [.NET](https://dotnet.microsoft.com/) - C#
 - 🎓 I am currently doing a postgraduate degree in **Data Science** at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
 - 📚 My study focus is **Clean Code**
 - 👨‍💻 I am working on the following repos: [My Data Science Notebooks](https://github.com/andredarcie/my-data-science-notebooks), [C# Guide](https://github.com/andredarcie/csharp-quick-reference-guide), [Python in One Page](https://github.com/andredarcie/python-in-one-page), [Best games ever (data based)](https://github.com/andredarcie/best-games-of-all-time)
