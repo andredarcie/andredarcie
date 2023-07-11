@@ -2,6 +2,7 @@
 
 ### Some info about me
 
+- 🚀 Co-founder of [OpenVideoGameData](https://www.openvideogamedata.com/) - The video game list aggregator
 - 💼 I’m currently working at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with C# [.NET](https://dotnet.microsoft.com/)
 - 🎓 I am currently doing a postgraduate degree in **Data Science** at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
 - 📚 My study focus is **Clean Code**
