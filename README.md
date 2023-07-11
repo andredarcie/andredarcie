@@ -3,7 +3,7 @@
 ### Some info about me
 
 - 🚀 Co-founder of [OpenVideoGameData](https://www.openvideogamedata.com/) - The video game list aggregator
-- 💼 I’m currently working at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with C# [.NET](https://dotnet.microsoft.com/)
+- 💼 Currently working full-time at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with C# [.NET](https://dotnet.microsoft.com/)
 - 🎓 I am currently doing a postgraduate degree in **Data Science** at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
 - 📚 My study focus is **Clean Code**
 - 👨‍💻 I am working on the following repos: [My Data Science Notebooks](https://github.com/andredarcie/my-data-science-notebooks), [C# Guide](https://github.com/andredarcie/csharp-quick-reference-guide), [Python in One Page](https://github.com/andredarcie/python-in-one-page), [Best games ever (data based)](https://github.com/andredarcie/best-games-of-all-time)
