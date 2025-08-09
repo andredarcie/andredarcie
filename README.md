@@ -3,7 +3,7 @@
 ### Some info about me
 
 - 🚀 Co-founder of [OpenVideoGameData](https://www.openvideogamedata.com/) - The video game list aggregator
-- 💼 Currently working full-time at [Exato Digital](https://exato.digital/) as a Senior Backend Developer with C# [.NET](https://dotnet.microsoft.com/)
+- 💼 Currently working full-time at [NTT Data](https://nttdata-solutions.com/br/) ([XP Investimentos](https://www.xpi.com.br/)) as a Senior Backend Developer with C# [.NET](https://dotnet.microsoft.com/)
 - 🎓 I have completed a postgraduate degree in **Data Science** at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
 - 📚 My study focus is **Microservices Architecture on AWS**
 - 👨‍💻 I am working on the following repos: [C# Quick Reference Guide](https://github.com/andredarcie/csharp-quick-reference-guide), [My Data Science Notebooks](https://github.com/andredarcie/my-data-science-notebooks), [Python in One Page](https://github.com/andredarcie/python-in-one-page).
